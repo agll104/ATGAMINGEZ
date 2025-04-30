@@ -66,6 +66,3 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/KimP/refs/he
      Name = "TBoy Hub",
     Callback = function()
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/TBoyRoblox727/tboyroblox/refs/heads/main/AllScriptFix.lua"))()
-	  
-
-	  
